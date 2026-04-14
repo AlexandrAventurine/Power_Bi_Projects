@@ -13,7 +13,7 @@
 - Data Modeling
 
 ##  Dataset
-Survey data of professionals working in data-related roles.
+Data Professional Survey Breakdown.
 
 ## 📊 Dashboard Features
 
