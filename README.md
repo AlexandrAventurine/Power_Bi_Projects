@@ -1,8 +1,11 @@
 # 📊 Data Professional Survey Breakdown (Power BI Dashboard)
 
 ##  Project Overview
-This project presents insights from a survey of data professionals.  
-The dashboard highlights key trends in salaries, job roles, and career satisfaction.
+• This project focuses on analyzing survey data from data professionals using Power BI to uncover meaningful insights about the industry.
+
+• The main goal was to transform raw and unstructured data into a clear, interactive, and visually appealing dashboard.
+
+• The dashboard is designed to support data-driven decision-making and simplify complex information.
 
 ## 🛠 Tools & Technologies
 - Power BI
