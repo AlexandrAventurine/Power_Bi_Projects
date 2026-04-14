@@ -12,9 +12,6 @@
 - Data Visualization
 - Data Modeling
 
-##  Dataset
-Data Professional Survey Breakdown.
-
 ## 📊 Dashboard Features
 
 ### 💰  Salary Analysis
