@@ -42,7 +42,7 @@ Key Insights:
 - Work-life balance varies significantly by role
 
 
-  Key Skills Demonstrated:
+Key Skills Demonstrated:
 - Dashboard Design
 - Data Storytelling
 - Business Insight Extraction
