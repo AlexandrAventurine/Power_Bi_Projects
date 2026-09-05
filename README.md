@@ -14,28 +14,31 @@ Tools & Technologies
 
 Dashboard Features
 
-  Salary Analysis
+  Salary Analysis:
 - Average salary by role
 - Salary comparison across job titles
 
-  Career Insights
+
+  Career Insights:
 - Job satisfaction levels
 - Work-life balance analysis
 
-  Skills & Tools
+
+  Skills & Tools:
 - Most popular tools (SQL, Python, etc.)
 - Technology usage trends
 
-  Demographics
+  Demographics:
 - Distribution by country
 - Experience levels
 
-  Key Insights
+
+  Key Insights:
 - Data Analysts and Data Scientists show different salary distributions
 - SQL and Python remain dominant tools
 - Work-life balance varies significantly by role
 
-  Key Skills Demonstrated
+  Key Skills Demonstrated:
 - Dashboard Design
 - Data Storytelling
 - Business Insight Extraction
