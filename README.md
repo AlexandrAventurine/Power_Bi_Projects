@@ -1,4 +1,5 @@
-# Data Professional Survey Breakdown: From Messy Survey Data to an Interactive Power BI Dashboard
+# Data Professional Survey Breakdown: 
+From Messy Survey Data to an Interactive Power BI Dashboard
 
 Every year, thousands of data professionals share how much they earn, which tools they use, and how they feel about their work. But raw survey data is messy, inconsistent, and hard to read. In this project, I set out to change that by turning an unstructured survey dataset into a clear, interactive Power BI dashboard that answers real questions about the data industry.
 
