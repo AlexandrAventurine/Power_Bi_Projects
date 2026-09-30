@@ -42,6 +42,5 @@ For me, the project shows that the value of analytics lies not only in finding i
 
 ---
 
-This runs about 3,000 characters. I can make it shorter for a LinkedIn post, add hashtags, or rewrite it in Russian, Ukrainian, or Romanian if you'd like.
 
 
